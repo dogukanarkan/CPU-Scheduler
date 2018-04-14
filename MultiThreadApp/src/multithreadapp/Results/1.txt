@@ -1,0 +1,5 @@
+Thread 1
+First Come First Served
+Gantt Process      5 | 8 | 2 | 3 | 7 | 1 | 4 | 10 | 6 | 9 | 
+Gantt Time     0 1 8 14 17 24 29 33 43 49 59 
+Algorithm Time : 74.989619

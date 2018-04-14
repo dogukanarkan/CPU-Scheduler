@@ -1,0 +1,5 @@
+Thread 6
+Round Robin(TimeQuantum = 4)
+Gantt Process      5 | 8 | 2 | 3 | 7 | 1 | 4 | 10 | 6 | 9 | 8 | 2 | 7 | 1 | 10 | 6 | 9 | 10 | 9 | 
+Gantt Time     0 1 5 9 12 16 20 24 28 32 36 39 41 44 45 49 51 55 57 59 
+Algorithm Time : 75.816664

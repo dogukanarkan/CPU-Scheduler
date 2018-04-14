@@ -1,0 +1,5 @@
+Thread 4
+Preemptive Priority
+Gantt Process      5 | 8 | 1 | 2 | 3 | 6 | 7 | 4 | 8 | 9 | 10 | 
+Gantt Time     0 1 2 10 13 16 22 29 33 39 49 59 
+Algorithm Time : 73.557883

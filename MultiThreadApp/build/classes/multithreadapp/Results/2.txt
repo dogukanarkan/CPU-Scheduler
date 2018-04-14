@@ -1,0 +1,5 @@
+Thread 2
+Nonpreemptive Shortest Job First
+Gantt Process      5 | 8 | 3 | 4 | 1 | 2 | 6 | 7 | 9 | 10 | 
+Gantt Time     0 1 8 11 15 20 26 32 39 49 59 
+Algorithm Time : 74.398387
